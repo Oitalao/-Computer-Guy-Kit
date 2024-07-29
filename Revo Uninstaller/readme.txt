@@ -1,0 +1,1 @@
+Copy license to "C:\ProgramData\VS Revo Group\Revo Uninstaller Pro\"
